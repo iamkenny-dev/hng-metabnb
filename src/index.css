@@ -1309,6 +1309,15 @@ button {
   z-index: 1;
 }
 
+@media (max-width: 375px) {
+  .open--nav {
+    gap:55px;
+    display: none;
+    align-items: flex-start;
+    padding-left: 30px;
+  }
+}
+
 @media (max-width: 1000px) {
  .open--nav {
   display: flex;
