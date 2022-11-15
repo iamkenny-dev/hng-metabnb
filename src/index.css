@@ -8,7 +8,6 @@
 
 .home {
   /* width: 100vw; */
-  border: 3px solid green;
   height: 742px;
   left: 0px;
   top: 0px;
@@ -203,7 +202,6 @@ nav .times--icon {
   /* margin-top: 10px; */
   /* margin-bottom: -100px; */
   z-index: 999;
-  border: 3px solid red;
   }
 }
 
